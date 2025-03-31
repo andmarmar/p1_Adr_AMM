@@ -1,0 +1,6 @@
+[console_scripts]
+client = pr1.client:main
+publisher = pr1.publisher:main
+service = pr1.service:main
+subscriber = pr1.subscriber:main
+

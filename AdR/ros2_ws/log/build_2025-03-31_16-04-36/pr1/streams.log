@@ -1,0 +1,31 @@
+[0.665s] Invoking command in '/home/student/AdR/ros2_ws/src/pr1': PYTHONPATH=/home/student/AdR/ros2_ws/build/pr1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/AdR/ros2_ws/install/pr1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pr1 build --build-base /home/student/AdR/ros2_ws/build/pr1/build install --record /home/student/AdR/ros2_ws/build/pr1/install.log --single-version-externally-managed install_data
+[0.878s] running egg_info
+[0.879s] writing ../../build/pr1/pr1.egg-info/PKG-INFO
+[0.879s] writing dependency_links to ../../build/pr1/pr1.egg-info/dependency_links.txt
+[0.879s] writing entry points to ../../build/pr1/pr1.egg-info/entry_points.txt
+[0.879s] writing requirements to ../../build/pr1/pr1.egg-info/requires.txt
+[0.880s] writing top-level names to ../../build/pr1/pr1.egg-info/top_level.txt
+[0.881s] reading manifest file '../../build/pr1/pr1.egg-info/SOURCES.txt'
+[0.882s] adding license file 'LICENSE'
+[0.883s] writing manifest file '../../build/pr1/pr1.egg-info/SOURCES.txt'
+[0.883s] running build
+[0.883s] running build_py
+[0.883s] copying pr1/client.py -> /home/student/AdR/ros2_ws/build/pr1/build/lib/pr1
+[0.883s] copying pr1/service.py -> /home/student/AdR/ros2_ws/build/pr1/build/lib/pr1
+[0.884s] running install
+[0.884s] running install_lib
+[0.885s] copying /home/student/AdR/ros2_ws/build/pr1/build/lib/pr1/client.py -> /home/student/AdR/ros2_ws/install/pr1/lib/python3.10/site-packages/pr1
+[0.885s] copying /home/student/AdR/ros2_ws/build/pr1/build/lib/pr1/service.py -> /home/student/AdR/ros2_ws/install/pr1/lib/python3.10/site-packages/pr1
+[0.886s] byte-compiling /home/student/AdR/ros2_ws/install/pr1/lib/python3.10/site-packages/pr1/client.py to client.cpython-310.pyc
+[0.887s] byte-compiling /home/student/AdR/ros2_ws/install/pr1/lib/python3.10/site-packages/pr1/service.py to service.cpython-310.pyc
+[0.887s] running install_data
+[0.887s] running install_egg_info
+[0.889s] removing '/home/student/AdR/ros2_ws/install/pr1/lib/python3.10/site-packages/pr1-0.0.1-py3.10.egg-info' (and everything under it)
+[0.890s] Copying ../../build/pr1/pr1.egg-info to /home/student/AdR/ros2_ws/install/pr1/lib/python3.10/site-packages/pr1-0.0.1-py3.10.egg-info
+[0.891s] running install_scripts
+[0.915s] Installing client script to /home/student/AdR/ros2_ws/install/pr1/lib/pr1
+[0.916s] Installing publisher script to /home/student/AdR/ros2_ws/install/pr1/lib/pr1
+[0.916s] Installing service script to /home/student/AdR/ros2_ws/install/pr1/lib/pr1
+[0.916s] Installing subscriber script to /home/student/AdR/ros2_ws/install/pr1/lib/pr1
+[0.916s] writing list of installed files to '/home/student/AdR/ros2_ws/build/pr1/install.log'
+[0.950s] Invoked command in '/home/student/AdR/ros2_ws/src/pr1' returned '0': PYTHONPATH=/home/student/AdR/ros2_ws/build/pr1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/AdR/ros2_ws/install/pr1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pr1 build --build-base /home/student/AdR/ros2_ws/build/pr1/build install --record /home/student/AdR/ros2_ws/build/pr1/install.log --single-version-externally-managed install_data

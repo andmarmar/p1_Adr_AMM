@@ -1,0 +1,4 @@
+Invoking command in '/home/student/AdR/ros2_ws/build/example_interfaces': CMAKE_PREFIX_PATH=/home/student/AdR/ros2_ws/install/pr1:/opt/ros/humble /usr/bin/cmake --build /home/student/AdR/ros2_ws/build/example_interfaces -- -j12 -l12
+Invoked command in '/home/student/AdR/ros2_ws/build/example_interfaces' returned '0': CMAKE_PREFIX_PATH=/home/student/AdR/ros2_ws/install/pr1:/opt/ros/humble /usr/bin/cmake --build /home/student/AdR/ros2_ws/build/example_interfaces -- -j12 -l12
+Invoking command in '/home/student/AdR/ros2_ws/build/example_interfaces': CMAKE_PREFIX_PATH=/home/student/AdR/ros2_ws/install/pr1:/opt/ros/humble /usr/bin/cmake --install /home/student/AdR/ros2_ws/build/example_interfaces
+Invoked command in '/home/student/AdR/ros2_ws/build/example_interfaces' returned '0': CMAKE_PREFIX_PATH=/home/student/AdR/ros2_ws/install/pr1:/opt/ros/humble /usr/bin/cmake --install /home/student/AdR/ros2_ws/build/example_interfaces
